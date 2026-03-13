@@ -1,0 +1,1182 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "zhName": "氢",
+    "enName": "Hydrogen",
+    "atomicWeight": 1.008,
+    "period": 1,
+    "group": 1,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "zhName": "氦",
+    "enName": "Helium",
+    "atomicWeight": 4.0026,
+    "period": 1,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "zhName": "锂",
+    "enName": "Lithium",
+    "atomicWeight": 6.94,
+    "period": 2,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "zhName": "铍",
+    "enName": "Beryllium",
+    "atomicWeight": 9.0122,
+    "period": 2,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 5,
+    "symbol": "B",
+    "zhName": "硼",
+    "enName": "Boron",
+    "atomicWeight": 10.81,
+    "period": 2,
+    "group": 13,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "zhName": "碳",
+    "enName": "Carbon",
+    "atomicWeight": 12.011,
+    "period": 2,
+    "group": 14,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "zhName": "氮",
+    "enName": "Nitrogen",
+    "atomicWeight": 14.007,
+    "period": 2,
+    "group": 15,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "zhName": "氧",
+    "enName": "Oxygen",
+    "atomicWeight": 15.999,
+    "period": 2,
+    "group": 16,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 9,
+    "symbol": "F",
+    "zhName": "氟",
+    "enName": "Fluorine",
+    "atomicWeight": 18.998,
+    "period": 2,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "zhName": "氖",
+    "enName": "Neon",
+    "atomicWeight": 20.180,
+    "period": 2,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "zhName": "钠",
+    "enName": "Sodium",
+    "atomicWeight": 22.990,
+    "period": 3,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "zhName": "镁",
+    "enName": "Magnesium",
+    "atomicWeight": 24.305,
+    "period": 3,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "zhName": "铝",
+    "enName": "Aluminium",
+    "atomicWeight": 26.982,
+    "period": 3,
+    "group": 13,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "zhName": "硅",
+    "enName": "Silicon",
+    "atomicWeight": 28.085,
+    "period": 3,
+    "group": 14,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "zhName": "磷",
+    "enName": "Phosphorus",
+    "atomicWeight": 30.974,
+    "period": 3,
+    "group": 15,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "zhName": "硫",
+    "enName": "Sulfur",
+    "atomicWeight": 32.06,
+    "period": 3,
+    "group": 16,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "zhName": "氯",
+    "enName": "Chlorine",
+    "atomicWeight": 35.45,
+    "period": 3,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "zhName": "氩",
+    "enName": "Argon",
+    "atomicWeight": 39.948,
+    "period": 3,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "zhName": "钾",
+    "enName": "Potassium",
+    "atomicWeight": 39.098,
+    "period": 4,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "zhName": "钙",
+    "enName": "Calcium",
+    "atomicWeight": 40.078,
+    "period": 4,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "zhName": "钪",
+    "enName": "Scandium",
+    "atomicWeight": 44.956,
+    "period": 4,
+    "group": 3,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "zhName": "钛",
+    "enName": "Titanium",
+    "atomicWeight": 47.867,
+    "period": 4,
+    "group": 4,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 23,
+    "symbol": "V",
+    "zhName": "钒",
+    "enName": "Vanadium",
+    "atomicWeight": 50.942,
+    "period": 4,
+    "group": 5,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 24,
+    "symbol": "Cr",
+    "zhName": "铬",
+    "enName": "Chromium",
+    "atomicWeight": 51.996,
+    "period": 4,
+    "group": 6,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 25,
+    "symbol": "Mn",
+    "zhName": "锰",
+    "enName": "Manganese",
+    "atomicWeight": 54.938,
+    "period": 4,
+    "group": 7,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "zhName": "铁",
+    "enName": "Iron",
+    "atomicWeight": 55.845,
+    "period": 4,
+    "group": 8,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 27,
+    "symbol": "Co",
+    "zhName": "钴",
+    "enName": "Cobalt",
+    "atomicWeight": 58.933,
+    "period": 4,
+    "group": 9,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 28,
+    "symbol": "Ni",
+    "zhName": "镍",
+    "enName": "Nickel",
+    "atomicWeight": 58.693,
+    "period": 4,
+    "group": 10,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "zhName": "铜",
+    "enName": "Copper",
+    "atomicWeight": 63.546,
+    "period": 4,
+    "group": 11,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 30,
+    "symbol": "Zn",
+    "zhName": "锌",
+    "enName": "Zinc",
+    "atomicWeight": 65.38,
+    "period": 4,
+    "group": 12,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "zhName": "镓",
+    "enName": "Gallium",
+    "atomicWeight": 69.723,
+    "period": 4,
+    "group": 13,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 32,
+    "symbol": "Ge",
+    "zhName": "锗",
+    "enName": "Germanium",
+    "atomicWeight": 72.630,
+    "period": 4,
+    "group": 14,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 33,
+    "symbol": "As",
+    "zhName": "砷",
+    "enName": "Arsenic",
+    "atomicWeight": 74.922,
+    "period": 4,
+    "group": 15,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "zhName": "硒",
+    "enName": "Selenium",
+    "atomicWeight": 78.971,
+    "period": 4,
+    "group": 16,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 35,
+    "symbol": "Br",
+    "zhName": "溴",
+    "enName": "Bromine",
+    "atomicWeight": 79.904,
+    "period": 4,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "zhName": "氪",
+    "enName": "Krypton",
+    "atomicWeight": 83.798,
+    "period": 4,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 37,
+    "symbol": "Rb",
+    "zhName": "铷",
+    "enName": "Rubidium",
+    "atomicWeight": 85.468,
+    "period": 5,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "zhName": "锶",
+    "enName": "Strontium",
+    "atomicWeight": 87.62,
+    "period": 5,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 39,
+    "symbol": "Y",
+    "zhName": "钇",
+    "enName": "Yttrium",
+    "atomicWeight": 88.906,
+    "period": 5,
+    "group": 3,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 40,
+    "symbol": "Zr",
+    "zhName": "锆",
+    "enName": "Zirconium",
+    "atomicWeight": 91.224,
+    "period": 5,
+    "group": 4,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 41,
+    "symbol": "Nb",
+    "zhName": "铌",
+    "enName": "Niobium",
+    "atomicWeight": 92.906,
+    "period": 5,
+    "group": 5,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "zhName": "钼",
+    "enName": "Molybdenum",
+    "atomicWeight": 95.95,
+    "period": 5,
+    "group": 6,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "zhName": "锝",
+    "enName": "Technetium",
+    "atomicWeight": 98,
+    "period": 5,
+    "group": 7,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "zhName": "钌",
+    "enName": "Ruthenium",
+    "atomicWeight": 101.07,
+    "period": 5,
+    "group": 8,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "zhName": "铑",
+    "enName": "Rhodium",
+    "atomicWeight": 102.91,
+    "period": 5,
+    "group": 9,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 46,
+    "symbol": "Pd",
+    "zhName": "钯",
+    "enName": "Palladium",
+    "atomicWeight": 106.42,
+    "period": 5,
+    "group": 10,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "zhName": "银",
+    "enName": "Silver",
+    "atomicWeight": 107.87,
+    "period": 5,
+    "group": 11,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "zhName": "镉",
+    "enName": "Cadmium",
+    "atomicWeight": 112.41,
+    "period": 5,
+    "group": 12,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "zhName": "铟",
+    "enName": "Indium",
+    "atomicWeight": 114.82,
+    "period": 5,
+    "group": 13,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 50,
+    "symbol": "Sn",
+    "zhName": "锡",
+    "enName": "Tin",
+    "atomicWeight": 118.71,
+    "period": 5,
+    "group": 14,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "zhName": "锑",
+    "enName": "Antimony",
+    "atomicWeight": 121.76,
+    "period": 5,
+    "group": 15,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "zhName": "碲",
+    "enName": "Tellurium",
+    "atomicWeight": 127.60,
+    "period": 5,
+    "group": 16,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "zhName": "碘",
+    "enName": "Iodine",
+    "atomicWeight": 126.90,
+    "period": 5,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "zhName": "氙",
+    "enName": "Xenon",
+    "atomicWeight": 131.29,
+    "period": 5,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "zhName": "铯",
+    "enName": "Caesium",
+    "atomicWeight": 132.91,
+    "period": 6,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 56,
+    "symbol": "Ba",
+    "zhName": "钡",
+    "enName": "Barium",
+    "atomicWeight": 137.33,
+    "period": 6,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 57,
+    "symbol": "La",
+    "zhName": "镧",
+    "enName": "Lanthanum",
+    "atomicWeight": 138.91,
+    "period": 8,
+    "group": 3,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 58,
+    "symbol": "Ce",
+    "zhName": "铈",
+    "enName": "Cerium",
+    "atomicWeight": 140.12,
+    "period": 8,
+    "group": 4,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 59,
+    "symbol": "Pr",
+    "zhName": "镨",
+    "enName": "Praseodymium",
+    "atomicWeight": 140.91,
+    "period": 8,
+    "group": 5,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 60,
+    "symbol": "Nd",
+    "zhName": "钕",
+    "enName": "Neodymium",
+    "atomicWeight": 144.24,
+    "period": 8,
+    "group": 6,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 61,
+    "symbol": "Pm",
+    "zhName": "钷",
+    "enName": "Promethium",
+    "atomicWeight": 145,
+    "period": 8,
+    "group": 7,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 62,
+    "symbol": "Sm",
+    "zhName": "钐",
+    "enName": "Samarium",
+    "atomicWeight": 150.36,
+    "period": 8,
+    "group": 8,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 63,
+    "symbol": "Eu",
+    "zhName": "铕",
+    "enName": "Europium",
+    "atomicWeight": 151.96,
+    "period": 8,
+    "group": 9,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 64,
+    "symbol": "Gd",
+    "zhName": "钆",
+    "enName": "Gadolinium",
+    "atomicWeight": 157.25,
+    "period": 8,
+    "group": 10,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 65,
+    "symbol": "Tb",
+    "zhName": "铽",
+    "enName": "Terbium",
+    "atomicWeight": 158.93,
+    "period": 8,
+    "group": 11,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 66,
+    "symbol": "Dy",
+    "zhName": "镝",
+    "enName": "Dysprosium",
+    "atomicWeight": 162.50,
+    "period": 8,
+    "group": 12,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 67,
+    "symbol": "Ho",
+    "zhName": "钬",
+    "enName": "Holmium",
+    "atomicWeight": 164.93,
+    "period": 8,
+    "group": 13,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 68,
+    "symbol": "Er",
+    "zhName": "铒",
+    "enName": "Erbium",
+    "atomicWeight": 167.26,
+    "period": 8,
+    "group": 14,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 69,
+    "symbol": "Tm",
+    "zhName": "铥",
+    "enName": "Thulium",
+    "atomicWeight": 168.93,
+    "period": 8,
+    "group": 15,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 70,
+    "symbol": "Yb",
+    "zhName": "镱",
+    "enName": "Ytterbium",
+    "atomicWeight": 173.05,
+    "period": 8,
+    "group": 16,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 71,
+    "symbol": "Lu",
+    "zhName": "镥",
+    "enName": "Lutetium",
+    "atomicWeight": 174.97,
+    "period": 8,
+    "group": 17,
+    "category": "镧系"
+  },
+  {
+    "atomicNumber": 72,
+    "symbol": "Hf",
+    "zhName": "铪",
+    "enName": "Hafnium",
+    "atomicWeight": 178.49,
+    "period": 6,
+    "group": 4,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 73,
+    "symbol": "Ta",
+    "zhName": "钽",
+    "enName": "Tantalum",
+    "atomicWeight": 180.95,
+    "period": 6,
+    "group": 5,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 74,
+    "symbol": "W",
+    "zhName": "钨",
+    "enName": "Tungsten",
+    "atomicWeight": 183.84,
+    "period": 6,
+    "group": 6,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 75,
+    "symbol": "Re",
+    "zhName": "铼",
+    "enName": "Rhenium",
+    "atomicWeight": 186.21,
+    "period": 6,
+    "group": 7,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 76,
+    "symbol": "Os",
+    "zhName": "锇",
+    "enName": "Osmium",
+    "atomicWeight": 190.23,
+    "period": 6,
+    "group": 8,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 77,
+    "symbol": "Ir",
+    "zhName": "铱",
+    "enName": "Iridium",
+    "atomicWeight": 192.22,
+    "period": 6,
+    "group": 9,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 78,
+    "symbol": "Pt",
+    "zhName": "铂",
+    "enName": "Platinum",
+    "atomicWeight": 195.08,
+    "period": 6,
+    "group": 10,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 79,
+    "symbol": "Au",
+    "zhName": "金",
+    "enName": "Gold",
+    "atomicWeight": 196.97,
+    "period": 6,
+    "group": 11,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 80,
+    "symbol": "Hg",
+    "zhName": "汞",
+    "enName": "Mercury",
+    "atomicWeight": 200.59,
+    "period": 6,
+    "group": 12,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "zhName": "铊",
+    "enName": "Thallium",
+    "atomicWeight": 204.38,
+    "period": 6,
+    "group": 13,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "zhName": "铅",
+    "enName": "Lead",
+    "atomicWeight": 207.2,
+    "period": 6,
+    "group": 14,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "zhName": "铋",
+    "enName": "Bismuth",
+    "atomicWeight": 208.98,
+    "period": 6,
+    "group": 15,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "zhName": "钋",
+    "enName": "Polonium",
+    "atomicWeight": 209,
+    "period": 6,
+    "group": 16,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "zhName": "砹",
+    "enName": "Astatine",
+    "atomicWeight": 210,
+    "period": 6,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "zhName": "氡",
+    "enName": "Radon",
+    "atomicWeight": 222,
+    "period": 6,
+    "group": 18,
+    "category": "稀有气体"
+  },
+  {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "zhName": "钫",
+    "enName": "Francium",
+    "atomicWeight": 223,
+    "period": 7,
+    "group": 1,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "zhName": "镭",
+    "enName": "Radium",
+    "atomicWeight": 226,
+    "period": 7,
+    "group": 2,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "zhName": "锕",
+    "enName": "Actinium",
+    "atomicWeight": 227,
+    "period": 9,
+    "group": 3,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "zhName": "钍",
+    "enName": "Thorium",
+    "atomicWeight": 232.04,
+    "period": 9,
+    "group": 4,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "zhName": "镤",
+    "enName": "Protactinium",
+    "atomicWeight": 231.04,
+    "period": 9,
+    "group": 5,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "zhName": "铀",
+    "enName": "Uranium",
+    "atomicWeight": 238.03,
+    "period": 9,
+    "group": 6,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 93,
+    "symbol": "Np",
+    "zhName": "镎",
+    "enName": "Neptunium",
+    "atomicWeight": 237,
+    "period": 9,
+    "group": 7,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "zhName": "钚",
+    "enName": "Plutonium",
+    "atomicWeight": 244,
+    "period": 9,
+    "group": 8,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "zhName": "镅",
+    "enName": "Americium",
+    "atomicWeight": 243,
+    "period": 9,
+    "group": 9,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "zhName": "锔",
+    "enName": "Curium",
+    "atomicWeight": 247,
+    "period": 9,
+    "group": 10,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "zhName": "锫",
+    "enName": "Berkelium",
+    "atomicWeight": 247,
+    "period": 9,
+    "group": 11,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "zhName": "锎",
+    "enName": "Californium",
+    "atomicWeight": 251,
+    "period": 9,
+    "group": 12,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "zhName": "锿",
+    "enName": "Einsteinium",
+    "atomicWeight": 252,
+    "period": 9,
+    "group": 13,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "zhName": "镄",
+    "enName": "Fermium",
+    "atomicWeight": 257,
+    "period": 9,
+    "group": 14,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 101,
+    "symbol": "Md",
+    "zhName": "钔",
+    "enName": "Mendelevium",
+    "atomicWeight": 258,
+    "period": 9,
+    "group": 15,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 102,
+    "symbol": "No",
+    "zhName": "锘",
+    "enName": "Nobelium",
+    "atomicWeight": 259,
+    "period": 9,
+    "group": 16,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 103,
+    "symbol": "Lr",
+    "zhName": "铹",
+    "enName": "Lawrencium",
+    "atomicWeight": 262,
+    "period": 9,
+    "group": 17,
+    "category": "锕系"
+  },
+  {
+    "atomicNumber": 104,
+    "symbol": "Rf",
+    "zhName": "𬬻",
+    "enName": "Rutherfordium",
+    "atomicWeight": 267,
+    "period": 7,
+    "group": 4,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 105,
+    "symbol": "Db",
+    "zhName": "𬭊",
+    "enName": "Dubnium",
+    "atomicWeight": 268,
+    "period": 7,
+    "group": 5,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 106,
+    "symbol": "Sg",
+    "zhName": "𬭳",
+    "enName": "Seaborgium",
+    "atomicWeight": 269,
+    "period": 7,
+    "group": 6,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 107,
+    "symbol": "Bh",
+    "zhName": "𬭛",
+    "enName": "Bohrium",
+    "atomicWeight": 270,
+    "period": 7,
+    "group": 7,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 108,
+    "symbol": "Hs",
+    "zhName": "𬭶",
+    "enName": "Hassium",
+    "atomicWeight": 277,
+    "period": 7,
+    "group": 8,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 109,
+    "symbol": "Mt",
+    "zhName": "鿏",
+    "enName": "Meitnerium",
+    "atomicWeight": 278,
+    "period": 7,
+    "group": 9,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 110,
+    "symbol": "Ds",
+    "zhName": "𫟼",
+    "enName": "Darmstadtium",
+    "atomicWeight": 281,
+    "period": 7,
+    "group": 10,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 111,
+    "symbol": "Rg",
+    "zhName": "𬬭",
+    "enName": "Roentgenium",
+    "atomicWeight": 282,
+    "period": 7,
+    "group": 11,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 112,
+    "symbol": "Cn",
+    "zhName": "鿔",
+    "enName": "Copernicium",
+    "atomicWeight": 285,
+    "period": 7,
+    "group": 12,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 113,
+    "symbol": "Nh",
+    "zhName": "鉨",
+    "enName": "Nihonium",
+    "atomicWeight": 286,
+    "period": 7,
+    "group": 13,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 114,
+    "symbol": "Fl",
+    "zhName": "𫓧",
+    "enName": "Flerovium",
+    "atomicWeight": 289,
+    "period": 7,
+    "group": 14,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "zhName": "镆",
+    "enName": "Moscovium",
+    "atomicWeight": 290,
+    "period": 7,
+    "group": 15,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "zhName": "鉝",
+    "enName": "Livermorium",
+    "atomicWeight": 293,
+    "period": 7,
+    "group": 16,
+    "category": "金属"
+  },
+  {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "zhName": "鿬",
+    "enName": "Tennessine",
+    "atomicWeight": 294,
+    "period": 7,
+    "group": 17,
+    "category": "非金属"
+  },
+  {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "zhName": "鿫",
+    "enName": "Oganesson",
+    "atomicWeight": 294,
+    "period": 7,
+    "group": 18,
+    "category": "稀有气体"
+  }
+]
